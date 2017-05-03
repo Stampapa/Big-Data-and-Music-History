@@ -1,10 +1,13 @@
-site_name: HIS4936 Final Project Starter
-theme_dir: theme
+site_name: Big-Data-and-Music-History
+theme_dir: cinder
 theme: null
 copyright: 'Copyright &copy; 2017 <a href="mailto:dave.a.base@gmail.com">David J. Thomas</a>'
 repo_url: https://github.com/thePortus/his4936-starter
 repo_name: 'GitHub'
 pages:
 - Home: 'index.md'
-- Some Page: 'some_page.md'
+- Backround: 'Backround.md'
+- Problems and Findings: 'Quanatative analysis.md'
+- Historiography and the future: 'Next Steps and Scholarship.md'
+- Bibliography: 'Bibliography.md'
 - Credits: 'credits.md'
