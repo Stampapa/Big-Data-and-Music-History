@@ -1,4 +1,3 @@
-
 ##Initial Hurdles
 ---
 Working with a data set as large as having over 1 million records poses its own set of challenges. More so when you personally had no control over the databasing and the general process of organization. This is clear when it came to analyzing our data. Of which has multiple potential issues of which we have attempted to correct some while leaving others in. For example, there are too many typos to count that needed to be corrected and the overwhelming number of null in multiple categories. Particularly country of publication and composer name which can prove to achieve the most accurate of results a challenge. Also, they state with their data that if a title appears again with a different category also attached, i.e published in Vienna and London it will be its own separate entity. While it can cause some distortion, ultimately we decided to leave this part of the data unchanged because the popularity/weight of the piece is also significant.

@@ -1,4 +1,3 @@
-
 ##Bibliography
 ---
 - Afanador-Llach, Maria José, Antonio Rojas Castro, Adam Crymble, Víctor Gayol, Fred Gibbs, Caleb McDaniel, Ian Milligan, Amanda Visconti, and Jeri Wieringa, eds. The Programming Historian. 2nd ed., 2017.      http://programminghistorian.org/
